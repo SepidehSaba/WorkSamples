@@ -1,0 +1,3 @@
+﻿<%@ServiceHost Debug="true" Language="C#"  CodeBehind="Jakeda.BuiltSpace.Platform.ISAPI.BuildingData.cs"  Service="Jakeda.BuiltSpace.Platform.ISAPI.BuildingData,Jakeda.BuiltSpace.Platform, PublicKeyToken=87aa0e9009487bb2,Version=1.0.0.0, Culture=Neutral" 
+Factory="Microsoft.SharePoint.Client.Services.MultipleBaseAddressDataServiceHostFactory, Microsoft.SharePoint.Client.ServerRuntime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c"%>
+
